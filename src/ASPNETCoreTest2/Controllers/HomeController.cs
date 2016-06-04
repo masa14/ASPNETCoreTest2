@@ -10,6 +10,7 @@ namespace ASPNETCoreTest2.Controllers
     {
         public IActionResult Index()
         {
+            string test = "test";
             return View();
         }
 
