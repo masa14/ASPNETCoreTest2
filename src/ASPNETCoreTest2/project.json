@@ -70,7 +70,7 @@
     }
   },
   "commands": {
-    "web": "Microsoft.AspNet.Server.Kestrel --server.urls http://0.0.0.0:5004"
+    "web": "Microsoft.AspNetCore.Server.Kestrel --server.urls http://unix:/var/aspnet/HelloMVC/kestrel.sock"
   },
   "frameworks": {
     "netcoreapp1.0": {
