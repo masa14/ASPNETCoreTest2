@@ -18,7 +18,7 @@
     "ASPNETCoreTest2": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "http://dotnetcoretest2013.cloudapp.net:5000",
+      "launchUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
